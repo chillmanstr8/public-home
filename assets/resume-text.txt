@@ -1,0 +1,135 @@
+Ian Strathdee
+ian.strathdee@gmail.com | 716.777.2945 
+Buffalo, NY 14203 
+
+SUMMARY
+Over ten years of professional experience in the field of Information Technology, with a wide range of knowledge and hands on experience in release engineering, product implementation and maintenance, and quality assurance testing. My career goal is to continue as a Build & Release Manager. I have shown that I can be effective in making sure deadlines are met and the integrity of the release is always solid by using milestone checklists. My ambition with build & release technologies is automation – creating a continuously integrated environment which is always ready to deliver with minimal set up and manual error checking. As an integral part of DevOps methodologies, I possess a deep understanding of the need for the Release Manager to be involved with various department heads each day, as well as contact with the Project Managers to ensure the client is delivered what they are expecting on time, without error.
+Goal-oriented technology engineer with a wide range of experience in many settings and OS's. Forward-thinking when reviewing project requirements to determine precise solutions. Composed professional when working under tight schedules and limited budgets to achieve innovative designs meeting and exceeding objectives.
+SKILLS
+•	Technical Support
+•	Technical Documentation
+•	Technical Troubleshooting
+•	Product Development Testing
+•	System Design	•	Remote Support
+•	Troubleshooting and Diagnosis
+•	Product Development Support
+•	Server Analysis
+EXPERIENCE
+
+Technical Engineer III
+M&T Bank | Buffalo, NY | Apr 2023-Current
+•	Analyzed user requirements and designed functional specifications.
+•	Developed technical solutions for a wide range of engineering problems.
+•	Provided technical support to customers over the phone or through email.
+•	Installed, configured, maintained and upgraded computer systems and networks.
+•	Performed troubleshooting on hardware and software issues in a timely manner.
+•	Created test plans, scripts and strategies to ensure software quality assurance.
+•	Conducted research on emerging technologies and recommended improvements in existing ones.
+•	Tested new software applications prior to their release.
+•	Created presentations for senior management about upcoming projects and initiatives.
+•	Maintained up-to-date knowledge of industry trends and best practices related to IT infrastructure.
+•	Developed automated tools using scripting languages such as Python or PowerShell for routine maintenance tasks.
+•	Avoided data loss by creating back-ups of programs.
+•	Utilized mathematical skills and understanding of engineering principles to design new products.
+
+Software Engineer II
+M&T Bank | Cheektowaga, NY | Jun 2017-Current
+•	Lead contact for platform support on Robotics Process Automation project
+•	Responsible for standing up new environments - completed server workbooks, Netscaler & SSL requests for new projects
+•	Delivered quarterly security spot checks for audit purposes
+•	Continued support for TFS, fulfilling client requests, team project customization
+•	Wrote & completed disaster recovery plans & exercises for RPA, TFS
+•	Responsible for configuring the HP Sync tool to migrate and update data from HP ALM and TFS.
+•	Stood up a new instance of Azure DevOps 2019 and migrated all projects from TFS 2013.
+
+Senior Release Manager 
+HP Enterprise Services | Herndon, VA | Sep 2014-Current
+•	Coordinated with DBA's, QA Testers, Support and the client to ensure releases were pushed on schedule and verified
+•	Wrote PowerShell scripts to automate the deployment of new work items as well as release-specific move log files and folders to add & check-in to TFS
+•	Handled all movement of files throughout the TFS team project structures; including creation of new branches for new versions, labeling internal and external releases, hot-fix and release branching
+•	Security policies configured for limited access based on Windows AD Groups
+•	Completed AWS Deep-Dive course and used PowerShell to assist in migrating from our internal server farm to the numerous AWS Cloud environments
+•	Daily coordination between developers and progress with their tasks and updates from our testers to determine the progress of related work items in order to keep the status of the releases current; used by Senior Architects for assessing what fixes and requirements were to be included in the final deliverable
+•	Implemented the use of labels in TFS in case an environment needed to be rolled back to a previous state for testing
+•	Migrated from TFS 2005 to TFS 2013
+•	Set up a Team Build in TFS for the website application, thereby eliminating the need for code-behind files resting on the Production server, potentially being exposed and compromising national security
+•	Assumed responsibilities of Tech Writer for 7 months in addition to Release Manager responsibilities.
+
+TFS Administrator 
+Software Specialists | Buffalo, NY | Aug 2015-May 2017
+•	Responsible for oversight of Team Foundation Server BAU & maintenance
+•	Integrated HP Service Manager with TFS using PowerShell
+•	Wrote recertification document for TFS application
+•	Overhauled security for all 200+ projects in the deployment
+•	Worked with clients to customize and deliver a solution that met their requirements.
+
+I.T. Consultant 
+AmCad, LLC | Herndon, VA | Jul 2014-Sep 2014
+•	Source Code Retrieval and package ESCROW backup for clients' AmCad is no longer supporting in the Justice System Solution Software Suite
+•	Gathering onsite deployment information and determining which codebase was used to package their msi's
+•	TFS Version control: retrieving different codebases for all clients' current onsite releases.
+
+Senior Release Engineer 
+AmCad, LLC | Herndon, VA | Aug 2010-Jun 2014
+•	Configuration/Release Development and Management
+•	Experienced in TFS – administering to developers, enforcing security policies, responsible for labeling and branching out specific releases for future hotfixes and service releases
+•	Thorough experience configuring and maintaining build schedules, and scheduling ad-hoc builds as needed during external releases
+•	Set up developers for gated check-ins to the development trunk
+•	Responsible for configuration management and generating configuration files for new clients and their environments
+•	Central point-of-contact during numerous Go-Live deployments to new county clients, ensuring a successful transition to AmCad's Justice Software Solution used for all activities in court case management
+•	Responsible for meeting very tight deadlines
+•	Critical component to the deployment process and responsible for producing error-free application install packages and ensuring each packages' custom configuration was correct
+•	Milestone checklists completed during go-lives and external upgrades
+•	Advanced level working knowledge of Flexera's Installshield and FlexNet remote web deployment
+•	Managed potential risks and delays that affected the release schedule and scope to ensure timely, quality releases
+•	Create and maintained automated build processes for the various projects using Automated Build Studio and MSBuild
+•	Set up and configured Jenkins software to help foster an agile development environment with the use of CI
+•	Responsible for deployment of web applications and web services using IIS 6 & 7
+•	Extensive use of logs to diagnose issues filed internally and either troubleshoot if the build/release was an issue, or directing the item to the correct developer/dba as the situation warranted
+•	Custom dialog setup for installs
+•	Established milestone checklists for external deployments
+•	Executing SQL scripts upon installing/upgrading middleware packages.
+
+Project Coordinator 
+AmCad | Rock Island, IL | Dec 2008-Aug 2010
+•	Responsible for testing AiCS [an AmCad software solution] functionality and troubleshooting individual and system-wide issues in a production environment consisting of over 300 employees and 50+ client workstations
+•	Responsible for maintaining end-user workstations and troubleshooting an issue if it was limited to one (or a small group) of machines
+•	Generated ISO 9001:2000 compliant documentation for AmCad's Integrated Capturing System.
+
+System Administrator 
+EBE Technologies | East Moline, IL | Jun 2007-Sep 2008
+•	Network / Hardware Support
+•	Implemented and configured EBE's custom imaging systems to remote client environments
+•	Provided Helpdesk support for clients' end-users and IT staff
+•	Created Adobe Flash animations and various graphics for use on the company's web site.
+
+EDUCATION AND TRAINING
+B.S.: Business Administration, M.I.S. 
+University of Illinois | Urbana-Champaign, IL 
+KEY QUALIFICATIONS
+•	PowerShell scripting for automation of key tasks
+•	Extensive Windows batch file creation to automate the build, packaging, and deployment of software to internal test environments
+•	Integral part of DevOps as a Release Manager that included communicating with Project Managers, Systems Analysts, QA Managers, Technical Writers, Developers, DBAs, and status reporting to the CTO
+•	Set up and configured Continuous Integration tools such as Jenkins, Azure DevOps
+•	Experience designing and creating CI builds in TFS, Azure DevOps
+•	Responsible for coordinating product releases, both for internal test and external test and production
+•	Tech and MSBuild used: MSBuild, TFS/Azure DevOps, Automated Build Studio, Installshield Professional 2011, Filezilla WinSCP, CuteFTP, FlexNetFileNet, Visual Studio 2013 - 2022, Microsoft Office and SharePoint
+
+ACTIVITIES AND HONORS
+•	Biking
+•	Guitar - acoustic and electric
+•	Always volunteer to help folks move
+
+LANGUAGES
+English: 
+Fully Lingual - Profressional level
+
+ACCOMPLISHMENTS
+Began new project, JMS-OCI, which will manage all the java jre/sdk's deployed in applications throughout the bank.
+•	Set up Ansible to deploy and upgrade the entire Digital Banking platform
+•	Used Ansible to complete an upgrade from Artifactory 6.x to 7.x
+•	Upgraded our UAT environment of GitLab from 14 to 15.11.0 in preparation for the PROD upgrade
+•	Main POC for anything regarding Azure DevOps 2019, including upgrades and runbook completion
+
+EFERENCES
+References available upon request.

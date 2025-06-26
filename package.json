@@ -1,0 +1,20 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "Uses HTML5, CSS, and javascript for theme and splash screen on load animation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^22.0.0"
+  }
+}
