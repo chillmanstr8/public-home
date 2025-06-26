@@ -6,7 +6,7 @@ function hideSplash() {
   splash.style.opacity = '0';
   setTimeout(() => {
     splash.style.display = 'none';
-    main.classList.remove('hidden');
+    main.style.display = 'block';
     handleScrollSlides(); // <-- Add this line!
   }, 800);
 }
